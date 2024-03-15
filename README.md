@@ -5,11 +5,11 @@
 
 ## Introduction
 
-CoVapp is a high-level prototype developed as part of a student project aimed at exploring the UI/UX design process. The project provided us with an opportunity to delve into various aspects of design, including research, wireframing, prototyping, and user testing.
+CovApp is a high-level prototype developed as part of a student project aimed at exploring the UI/UX design process. The project provided us with an opportunity to delve into various aspects of design, including research, wireframing, prototyping, and user testing.
 
 ## Purpose
 
-The primary objective of CoVapp was to gain practical experience in designing a mobile application focused on providing COVID-19 information and assistance. Through this project, we aimed to understand the importance of user-centered design principles and how they influence the overall user experience.
+The primary objective of CovApp was to gain practical experience in designing a mobile application focused on providing COVID-19 information and assistance. Through this project, we aimed to understand the importance of user-centered design principles and how they influence the overall user experience.
 
 ## Project Components
 
@@ -26,7 +26,7 @@ The primary objective of CoVapp was to gain practical experience in designing a 
 
 ## Getting Started
 
-To explore the CoVapp prototype:
+To explore the CovApp prototype:
 
 1. Visit: https://covapp.weebly.com/
 2. Open the project in Figma by navigating to the `Demo` section and clicking on the hyperlink.
