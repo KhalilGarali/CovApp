@@ -1,5 +1,7 @@
 # CoVapp -  COVID-19 Health Companion for the Elderly
-
+<p align="center">
+  <img src="CovApp.png" alt="CoVapp Logo" width="200">
+</p>
 ## Introduction
 
 CoVapp is a high-level prototype developed as part of a student project aimed at exploring the UI/UX design process. The project provided us with an opportunity to delve into various aspects of design, including research, wireframing, prototyping, and user testing.
